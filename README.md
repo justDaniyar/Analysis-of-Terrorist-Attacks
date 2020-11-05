@@ -7,3 +7,12 @@ My main goal is to conduct an analysis using **GTD** and show what the consequen
 ### Sources
 + [Official site GTD](https://www.start.umd.edu/gtd/access)
 + [CodeBook](https://github.com/justDaniyarr/Analysis-of-Terrorist-Attacks/blob/master/Codebook.pdf) - this document reflects the collection and coding rules for the Global Terrorism Database.
+
+
+## 2.  Research questions
+
+1. Analysis of the incidents by years
+2. Analysis of location, country, region of incidents
+3. Analysis of the distribution of terrorism and terrorist groups
+4. Analysis of the attack information, attack type,  weapon information, target and victim information
+5. Analysis of the influence on the economy
