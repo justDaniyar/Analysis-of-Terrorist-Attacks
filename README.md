@@ -1,4 +1,4 @@
-## online jupyter(for plotly)  [nbviewer](https://nbviewer.jupyter.org/github/justDaniyar/Analysis-of-Terrorist-Attacks/blob/main/Analysis-of-Terrorist-Attacks-Part3.ipynb)
+## online jupyter(for plotly)  [nbviewer](https://nbviewer.jupyter.org/github/justDaniyar/parsing-and-analysis-of-products-contentService.kz/blob/main/index.ipynb)
 
 
 # Analysis-of-Terrorist-Attack
